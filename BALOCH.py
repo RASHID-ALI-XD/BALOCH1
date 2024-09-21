@@ -1,2 +1,2 @@
-from BALOCH1 import approval
-approval()
+from BALOCH1 import superuser
+superuser()
